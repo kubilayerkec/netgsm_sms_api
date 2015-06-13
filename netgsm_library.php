@@ -2,7 +2,6 @@
 /*
  * NETGSM API İLE SMS GÖNDERMEK
  */
-defined('BASEPATH') OR exit('No direct script access allowed');
 class netgsm_library {
     private $username= "506*******";
     private $pass= "***";
